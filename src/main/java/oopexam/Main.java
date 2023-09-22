@@ -7,7 +7,7 @@ public class Main {
         Clothing tShirt = new Clothing("White T Shirt", 5.0, Size.S);
         Clothing buttonUp = new Clothing("Button Up Shirt", 30.0, Size.L);
 
-        // Create arrays for carts
+
         Clothing[] managerCart = {jeans, tShirt, buttonUp};
         Clothing[] hourlyEmployeeCart = {jeans, tShirt, buttonUp};
         Clothing[] studentCart = {jeans, tShirt, buttonUp};
