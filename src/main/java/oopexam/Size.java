@@ -1,7 +1,7 @@
 package oopexam;
 
 public enum Size {
-    SMALL("Small"), MEDIUM("Medium"), LARGE("Large")
+    SMALL("Small"), MEDIUM("Medium"), LARGE("Large");
 
     private final String size;
 
